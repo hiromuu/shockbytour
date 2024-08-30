@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "slideshow_YMcFaB": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_4bm3QT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6Uqzcn": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_yCNWky": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_gBaGNk": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_cHVdtq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_4bm3QT",
+        "slide_6Uqzcn",
+        "slide_yCNWky",
+        "slide_gBaGNk",
+        "slide_cHVdtq"
+      ],
+      "custom_css": [
+        ".slideshow__text.banner__box.content-container.content-container--full-width-mobile.color-scheme-1.gradient.slideshow__text--center.slideshow__text-mobile--center {display: none;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "multirow_zL6Vy6": {
+      "type": "multirow",
+      "blocks": {
+        "row_tzyPVw": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.png",
+            "caption": "",
+            "heading": "About Us",
+            "text": "<p>テストテストテスト<\/p><p>テストテストテスト<\/p>",
+            "button_label": "More About us",
+            "button_link": "shopify:\/\/pages\/about-us"
+          }
+        },
+        "row_GTHTP8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "caption": "",
+            "heading": "HokusaiTown \"Obuse\"",
+            "text": "<p>テストテストテスト<\/p><p>テストテストテスト<\/p><p>テストテストテスト<\/p>",
+            "button_label": "More About Obuse",
+            "button_link": "shopify:\/\/pages\/what-is-hokusai-town-obuse"
+          }
+        },
+        "row_HXJgHk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/11.png",
+            "caption": "",
+            "heading": "アクセス",
+            "text": "<p>テストテストテストテスト<\/p><p>テストテストテストテスト<\/p><p>テストテストテストテスト<\/p><p>テストテストテストテスト<\/p>",
+            "button_label": "More about tour",
+            "button_link": "shopify:\/\/pages\/ツアーの特徴"
+          }
+        }
+      },
+      "block_order": [
+        "row_tzyPVw",
+        "row_GTHTP8",
+        "row_HXJgHk"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_Njhix8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "半日ツアー",
+        "heading_size": "h1",
+        "description": "<p>テストテストテスト<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "半日ツアー",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_GUW4i6": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "1日ツアー",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "1日ツアー",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_YMcFaB",
+    "multirow_zL6Vy6",
+    "featured_collection_Njhix8",
+    "featured_collection_GUW4i6"
+  ]
+}

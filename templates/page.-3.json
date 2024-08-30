@@ -1,0 +1,148 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_Ddr7Qd": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_c2a456ca-0b89-4193-b674-8d8e5372416c.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_gcUtJL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iH9ATR": {
+          "type": "heading",
+          "settings": {
+            "heading": "東京からのアクセス",
+            "heading_size": "h2"
+          }
+        },
+        "text_YxGX48": {
+          "type": "text",
+          "settings": {
+            "text": "<p>テストテストテスト<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_iH9ATR",
+        "text_YxGX48"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_c2a456ca-0b89-4193-b674-8d8e5372416c.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_M3EDLL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_44jRch": {
+          "type": "heading",
+          "settings": {
+            "heading": "大阪からのアクセス",
+            "heading_size": "h2"
+          }
+        },
+        "text_zTM4LT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>テストテストテスト<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_44jRch",
+        "text_zTM4LT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_c2a456ca-0b89-4193-b674-8d8e5372416c.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_qmkDHA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8DbbrE": {
+          "type": "heading",
+          "settings": {
+            "heading": "石川からのアクセス",
+            "heading_size": "h2"
+          }
+        },
+        "text_LQGneC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>テストテストテスト<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8DbbrE",
+        "text_LQGneC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3_c2a456ca-0b89-4193-b674-8d8e5372416c.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_Ddr7Qd",
+    "image_with_text_gcUtJL",
+    "image_with_text_M3EDLL",
+    "image_with_text_qmkDHA"
+  ]
+}
